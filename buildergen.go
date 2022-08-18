@@ -1,4 +1,4 @@
-package buildergen
+package main
 
 import (
 	"flag"
