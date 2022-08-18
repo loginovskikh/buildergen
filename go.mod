@@ -1,4 +1,4 @@
-module gitlab.ozon.dev/loginovskikh/buildergen
+module github.com/loginovskikh/buildergen
 
 go 1.18
 

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	generatorPkg "gitlab.ozon.dev/loginovskikh/buildergen/generator"
+	generatorPkg "github.com/loginovskikh/buildergen/generator"
 )
 
 func main() {
